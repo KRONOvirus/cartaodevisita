@@ -1,0 +1,27 @@
+h1{
+    color:rgb(14, 153, 26);
+    background-color: rgb(173, 255, 105);
+    
+}
+h2{
+    color: rgb(14, 153, 26);
+    background-color: rgb(173, 255, 105);
+}
+p{
+    color: rgb(14, 153, 26);
+    font-size: 17px;
+}
+img{
+    width: 600px;
+    border-radius: 20px;
+}
+body{
+    text-align: center;
+    background-color: bisque;
+}
+.cartao{
+    margin: auto;
+    border-radius: 20px;
+    background-color: brown;
+    width: 800px;
+}
